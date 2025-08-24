@@ -42,7 +42,7 @@ Sample Content
 This repository contains a troubleshooting guide for common IT issues faced by users. Each issue is documented with step-by-step instructions to help IT professionals resolve problems efficiently.
 
 ## Table of Contents
-- Issues](./common_issues.md)
+- [Common Issues](./common_issues.md)
 - [Resources](resources/)
 
 2. issues/network_issues.md
