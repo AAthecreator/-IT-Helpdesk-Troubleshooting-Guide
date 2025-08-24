@@ -15,7 +15,7 @@ This repository is a comprehensive troubleshooting guide designed for IT helpdes
 
 ## How to Use
 1. Start with [Common Issues](./common_issues.md) to identify your problem.
-2. Follow the steps or use tools from [Resources](./resources.md).
+2. Follow the steps or use tools from [Resources](./resources.md)
 3. For contributions, see [Contributing](./CONTRIBUTING.md).
 
 ## License
