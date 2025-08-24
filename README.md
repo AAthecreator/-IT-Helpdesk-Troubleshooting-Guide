@@ -43,7 +43,7 @@ This repository contains a troubleshooting guide for common IT issues faced by u
 
 ## Table of Contents
 - [Common Issues](./common_issue.md)
-- [Resources](resources/)
+- [Resources](resources.md)
 
 2. issues/network_issues.md
 
